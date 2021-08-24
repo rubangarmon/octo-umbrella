@@ -21,6 +21,6 @@
         "components/*": ["src/components/*"]
       }
     },
-    "include": ["src","src/custom.d.ts"],
+    "include": ["src","src/declarations.d.ts"],
     "exclude": ["./dist", "node_modules", "./config"]
   }
